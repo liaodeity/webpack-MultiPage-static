@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "pure front demo",
   "scripts": {
-    "dev": "webpack-dev-server",
+    "dev": "webpack-dev-server --watch",
     "build": "webpack"
   },
   "author": "vhtml",
